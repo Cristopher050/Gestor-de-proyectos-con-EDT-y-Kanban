@@ -1,0 +1,4 @@
+reactpy>=1.1,<2.0
+fastapi>=0.110
+uvicorn[standard]>=0.27
+pytest>=8.0
